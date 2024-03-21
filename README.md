@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bistaalish
+- 👋 Hi, I’m Alish Bista
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on Nodejs and Helm charts.
